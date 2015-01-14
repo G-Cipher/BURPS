@@ -12,6 +12,9 @@ is a male DB-25 connector, with pinout selected for compatibility with [FlashCut
 BURPS is therefore a stripped-down implementation of [BUMPS][bumps-url], the
 BeagleBone Universal Multi Pololu Steppers board.
 
+The BURPS PCB design files were created with [Cadsoft Eagle][cadsoft-url] 5.12.0.
+
 [beagleg-url]: https://github.com/hzeller/beagleg
 [flashcut-url]: http://www.flashcutcnc.com/cnc-controls/stepper-controls-motors
 [bumps-url]: https://github.com/hzeller/bumps
+[cadsoft-url]: http://www.cadsoftusa.com/
