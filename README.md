@@ -5,21 +5,20 @@ BeagleBone Universal Removed Pololu Steppers
 
 BeagleBone Black cape providing a semi-generic optoisolated breakout for 4
 stepper axis outputs and 3 limit swtich inputs. The BBB I/O pin configuration
-is chosen for compatibility with [BeagleG][beagleg-url] for testing purposes.
+is chosen for compatibility with [BeagleG] for testing purposes.
 Output is a male DB-25 connector, with pinout selected for compatibility with
-[FlashCut CNC][flashcut-url] stepper driver electronics.
+[FlashCut CNC] stepper driver electronics.
 
-BURPS is therefore a stripped-down implementation of [BUMPS][bumps-url], the
+BURPS is therefore a stripped-down implementation of [BUMPS], the
 BeagleBone Universal Multi Pololu Steppers board.
 
-The BURPS PCB design files were created with [Cadsoft Eagle][cadsoft-url]
-5.12.0.
+The BURPS PCB design files were created with [Cadsoft Eagle] 5.12.0.
 
-![pcb][pcb]
+![pcb]
 
-[beagleg-url]: https://github.com/hzeller/beagleg
-[flashcut-url]: http://www.flashcutcnc.com/cnc-controls/stepper-controls-motors
-[bumps-url]: https://github.com/hzeller/bumps
-[cadsoft-url]: http://www.cadsoftusa.com/
+[beagleg]: https://github.com/hzeller/beagleg
+[flashcut cnc]: http://www.flashcutcnc.com/cnc-controls/stepper-controls-motors
+[bumps]: https://github.com/hzeller/bumps
+[cadsoft eagle]: http://www.cadsoftusa.com/
 [pcb]: https://raw.githubusercontent.com/G-Cipher/BURPS/master/BURPS-v1.0-PCB-850x460.png
 
