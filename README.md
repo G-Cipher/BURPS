@@ -12,7 +12,9 @@ Output is a male DB-25 connector, with pinout selected for compatibility with
 BURPS is therefore a stripped-down implementation of [BUMPS], the
 BeagleBone Universal Multi Pololu Steppers board.
 
-The BURPS PCB design files were created with [Cadsoft Eagle] 5.12.0.
+The BURPS PCB design files were created with [Cadsoft Eagle] 5.12.0. This
+board is designed for a prototype milling process, and may not be suitable
+for commercial fabrication.
 
 ![pcb]
 ![schematic]
