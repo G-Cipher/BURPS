@@ -15,10 +15,11 @@ BeagleBone Universal Multi Pololu Steppers board.
 The BURPS PCB design files were created with [Cadsoft Eagle] 5.12.0.
 
 ![pcb]
+![schematic]
 
 [beagleg]: https://github.com/hzeller/beagleg
 [flashcut cnc]: http://www.flashcutcnc.com/cnc-controls/stepper-controls-motors
 [bumps]: https://github.com/hzeller/bumps
 [cadsoft eagle]: http://www.cadsoftusa.com/
 [pcb]: https://raw.githubusercontent.com/G-Cipher/BURPS/master/BURPS-v1.0-PCB-850x460.png
-
+[schematic]: https://raw.githubusercontent.com/G-Cipher/BURPS/master/BURPS-v1.0-schematic-2048x1378.png
