@@ -4,7 +4,7 @@ BURPS
 BeagleBone Universal Removed Pololu Steppers
 
 BeagleBone Black cape providing a semi-generic optoisolated breakout for 4
-stepper axis outputs and 3 limit swtich inputs. The BBB I/O pin configuration
+stepper axis outputs and 3 limit switch inputs. The BBB I/O pin configuration
 is chosen for compatibility with [BeagleG] for testing purposes.
 Output is a male DB-25 connector, with pinout selected for compatibility with
 [FlashCut CNC] stepper driver electronics.
