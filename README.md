@@ -24,6 +24,8 @@ PCB v1.1 replaces the DB-25 connector with a dual-row 26-pin header. The
 pinout of the header corresponds to a male DB-25. A ribbon cable assembly
 with header IDC and male DB-25 IDC will connect the signals correctly.
 
+The graphics below depict PCB v1.0.
+
 ![pcb]
 ![schematic]
 
